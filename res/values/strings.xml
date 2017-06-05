@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wifiDetector</string>
+    <string name="hello_world">Hello world!</string>
+    
+     <string-array name="action">
+        <item>进入</item>
+        
+        <item>离开</item>
+        <item>路人</item>
+        
+        <item>楼内走动</item>
+        <item>其他</item>
+             
+    </string-array>
+    <string-array name="build_num">       
+        <item>教1</item>      
+        <item>教2</item>
+        <item>教3</item>
+        <item>教4</item>
+        <item>新科研楼</item>
+        <item>主楼</item>      
+        <item>综合餐厅</item>
+        <item>学生食堂</item>
+        <item>学1</item>
+        <item>学2</item>      
+        <item>学3</item>
+        <item>学4</item>
+        <item>学5</item>
+        <item>学6</item>
+        <item>学8</item>      
+        <item>学9</item>
+        <item>学10</item>
+        <item>学29</item>       
+    </string-array>
+   <string-array name="loc_num">             
+        <item>东门</item>
+        <item>西门</item>
+        <item>南门</item>
+        <item>北门</item>
+        <item>门口</item>      
+        <item>里面</item>
+        <item>北门里侧</item>
+        <item>东门里侧</item>
+        <item>南门里侧</item>      
+        <item>西门里侧</item>
+
+        
+    </string-array>
+<string name="press_again_backrun">再按一次返回键退出！</string>
+</resources>
